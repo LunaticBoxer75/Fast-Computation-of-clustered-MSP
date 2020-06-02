@@ -1,0 +1,30 @@
+radius : 200
+|S|/R: 1 avg_runspeedup: 0.378606 avg_ssp_speedup 1.96633
+|S|/R: 2 avg_runspeedup: 0.897116 avg_ssp_speedup 3.82307
+|S|/R: 3 avg_runspeedup: 1.16276 avg_ssp_speedup 5.52813
+|S|/R: 4 avg_runspeedup: 1.76653 avg_ssp_speedup 7.74343
+|S|/R: 5 avg_runspeedup: 2.11446 avg_ssp_speedup 9.58218
+
+radius : 400
+|S|/R: 1 avg_runspeedup: 0.583993 avg_ssp_speedup 2.51939
+|S|/R: 2 avg_runspeedup: 1.16359 avg_ssp_speedup 5.43178
+|S|/R: 3 avg_runspeedup: 1.59181 avg_ssp_speedup 7.89774
+|S|/R: 4 avg_runspeedup: 2.29064 avg_ssp_speedup 12.1966
+|S|/R: 5 avg_runspeedup: 2.62758 avg_ssp_speedup 12.6419
+
+radius : 600
+|S|/R: 1 avg_runspeedup: 0.619097 avg_ssp_speedup 2.94414
+|S|/R: 2 avg_runspeedup: 1.28822 avg_ssp_speedup 6.39301
+|S|/R: 3 avg_runspeedup: 1.71875 avg_ssp_speedup 8.66314
+|S|/R: 4 avg_runspeedup: 2.30357 avg_ssp_speedup 11.2058
+|S|/R: 5 avg_runspeedup: 2.96527 avg_ssp_speedup 13.4639
+
+radius : 800
+|S|/R: 1 avg_runspeedup: 0.686264 avg_ssp_speedup 3.49034
+|S|/R: 2 avg_runspeedup: 1.41467 avg_ssp_speedup 7.29185
+|S|/R: 3 avg_runspeedup: 2.02146 avg_ssp_speedup 9.91222
+|S|/R: 4 avg_runspeedup: 2.57709 avg_ssp_speedup 13.115
+|S|/R: 5 avg_runspeedup: 3.16438 avg_ssp_speedup 15.8801
+
+
+
